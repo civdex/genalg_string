@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/john/Documents/Dev/Internet Tutorials/genetic_alg_scratch/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
